@@ -1,5 +1,7 @@
 # **유니티로 구현한 LAV-AD**
 
+![LAVAD_main2](https://github.com/kiw6024/LAV-AD/assets/96360829/4f7f529a-0ab5-4025-af15-9df1f6e60d67)
+
 ### 조작키
 
 - 이동: WASD
