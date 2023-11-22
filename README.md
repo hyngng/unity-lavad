@@ -1,7 +1,5 @@
 # **유니티로 구현한 LAV-AD**
 
-![LAVAD_main2](https://github.com/kiw6024/LAV-AD/assets/96360829/4f7f529a-0ab5-4025-af15-9df1f6e60d67)
-
 ### 조작키
 
 - 이동: WASD
@@ -21,6 +19,10 @@
 - 전진 및 후진시 차량의 뒷바퀴 2쌍에 흙먼지 이펙트 생성
 - 카메라 심도 효과
 - 1인칭과 3인칭 상태에 따라 달라지는 오디오
+
+### 스크린샷
+
+![LAVAD_main2](https://github.com/kiw6024/LAV-AD/assets/96360829/4f7f529a-0ab5-4025-af15-9df1f6e60d67)
 
 <br>
 
