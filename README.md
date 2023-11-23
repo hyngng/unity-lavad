@@ -26,4 +26,4 @@
 
 <br>
 
-개발에 관한 후일담은 [여기](https://kiw6024.github.io/posts/LAV/)에서 더 자세히 확인하실 수 있습니다!
+개발에 관한 후일담은 [여기](https://kiw6024.github.io/posts/LAV/)에서 더 자세히 확인하실 수 있습니다.
