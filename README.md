@@ -27,4 +27,4 @@
 
 <br>
 
-후일담은 [여기](https://hynrng.github.io/posts/LAV/)에서 더 자세히 확인하실 수 있습니다.
+후일담은 [여기](https://hyngng.github.io/posts/lavad/)에서 더 자세히 확인하실 수 있습니다.
