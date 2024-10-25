@@ -1,10 +1,10 @@
 # **유니티로 구현한 LAV-AD**
 
-### 스크린샷
+## 스크린샷
 
 ![LAVAD_main2](https://github.com/kiw6024/LAV-AD/assets/96360829/4f7f529a-0ab5-4025-af15-9df1f6e60d67)
 
-### 조작키
+## 조작키
 
 - 이동: WASD
 - 브레이크: 스페이스바
@@ -14,7 +14,7 @@
 - 차량 상태 리셋: R
 - 나가기: Esc
 
-### 특징
+## 특징
 
 - 탄퍼짐과 탄피배출 구현
 - 발사가 오래 지속되면 포신 과열
@@ -27,4 +27,4 @@
 
 <br>
 
-후일담은 [여기](https://hyngng.github.io/posts/lavad/)에서 더 자세히 확인하실 수 있습니다.
+후일담은 [이곳](https://hyngng.github.io/posts/lavad/)에서 더 자세히 확인하실 수 있습니다.
