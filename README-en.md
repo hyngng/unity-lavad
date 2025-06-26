@@ -26,7 +26,3 @@
 - Dust effects generated on the rear wheels during forward and reverse movement
 - Camera depth-of-field effect
 - Audio changes based on first-person or third-person view
-
-<br>
-
-For more details, you can check the [full story here](https://hyngng.github.io/posts/lavad/).
