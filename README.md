@@ -1,6 +1,6 @@
 # **유니티로 구현한 LAV-AD**
 
-**If you don't know Korean, [English translation](https://github.com/hyngng/unity-lavad/blob/master/README-en.md) is here.**
+**[Korean](https://github.com/hyngng/unity-lavad/blob/master/README.md)** | **[English](https://github.com/hyngng/unity-lavad/blob/master/README-en.md)**
 
 ## 스크린샷
 
