@@ -1,6 +1,6 @@
 # **LAV-AD Implemented in Unity**
 
-[Korean]() | [English]()
+**[Korean](https://github.com/hyngng/unity-lavad/blob/master/README.md)** | **[English](https://github.com/hyngng/unity-lavad/blob/master/README-en.md)**
 
 ## Screenshot
 
